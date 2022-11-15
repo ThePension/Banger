@@ -54,3 +54,28 @@ bg red, color blue {
     }
 }
 ```
+
+
+# Generated
+
+```
+<div style="background:red; color:blue;">
+    <h1>Table of Content</h1>
+    <ol>
+        <li>Section 1</li>
+        <li>Section 2</li>
+        <li>Section 3</li>
+    </ol>
+    
+    <div style="background=blue">
+        <h1 style="color:white">
+        <code class="center"> 
+            -- extrait de code
+        </code>
+    
+    <ul>
+        <li>item 1</li>
+        <li>item 2</li>
+        <li>item 3</li>
+    </ul>
+```
