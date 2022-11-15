@@ -58,7 +58,7 @@ bg red, color blue {
 
 # Generated
 
-```
+```html
 <div style="background:red; color:blue;">
     <h1>Table of Content</h1>
     <ol>
