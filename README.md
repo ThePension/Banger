@@ -67,8 +67,8 @@ bg red, color blue {
         <li>Section 3</li>
     </ol>
     
-    <div style="background=blue">
-        <h1 style="color:white">
+    <div style="background: blue">
+        <h1 style="color: white">
         <code class="center"> 
             -- extrait de code
         </code>
@@ -78,4 +78,5 @@ bg red, color blue {
         <li>item 2</li>
         <li>item 3</li>
     </ul>
+</div>
 ```
